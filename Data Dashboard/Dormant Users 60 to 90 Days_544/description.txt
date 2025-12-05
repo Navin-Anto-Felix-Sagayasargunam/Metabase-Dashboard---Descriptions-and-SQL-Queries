@@ -1,0 +1,6 @@
+Card: Dormant Users 60 to 90 Days
+Card ID: 544
+Dashboard: Data Dashboard
+================================================================================
+
+Users who are active between 60 and 90 days

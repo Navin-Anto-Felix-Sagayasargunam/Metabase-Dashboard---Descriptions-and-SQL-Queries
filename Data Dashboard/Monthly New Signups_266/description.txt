@@ -1,0 +1,6 @@
+Card: Monthly New Signups
+Card ID: 266
+Dashboard: Data Dashboard
+================================================================================
+
+Count of New Signups monthly--(Date Filter Applied)

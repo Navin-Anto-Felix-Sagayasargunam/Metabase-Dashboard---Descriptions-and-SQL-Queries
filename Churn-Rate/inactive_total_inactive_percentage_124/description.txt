@@ -1,0 +1,6 @@
+Card: inactive,total,inactive_percentage
+Card ID: 124
+Dashboard: Churn-Rate 
+================================================================================
+
+No description available for this card.

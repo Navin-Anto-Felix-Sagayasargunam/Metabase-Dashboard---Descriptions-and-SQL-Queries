@@ -1,0 +1,7 @@
+Card: Click through Rate
+Card ID: 364
+Dashboard: Data Dashboard
+================================================================================
+
+Ratio of clicks to ad impressions.
+CTR=(Clicks/Impressions)×100

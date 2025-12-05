@@ -1,0 +1,7 @@
+Card: Churn rate--Count of users who have not used app in last three months
+Card ID: 123
+Dashboard: Churn-Rate 
+================================================================================
+
+select count(distinct customer_id)  from customers 
+where date(last_activity_date) < '2025-05-05'

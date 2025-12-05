@@ -1,0 +1,6 @@
+Card: Daily Active Users
+Card ID: 226
+Dashboard: Data Dashboard
+================================================================================
+
+Users active at least once in one day window. Logged in the App on current_date (Date Filter Applied)

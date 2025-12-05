@@ -1,0 +1,7 @@
+Card: Cost Per Click(CPC)
+Card ID: 362
+Dashboard: Data Dashboard
+================================================================================
+
+Average cost per ad click .
+CPC=(SUM(advertiseradcost)/SUM(advertiseradclicks))*100   (Date Filter Applied)

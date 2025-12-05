@@ -1,0 +1,6 @@
+Card: Fully Connected Users
+Card ID: 301
+Dashboard: Data Dashboard
+================================================================================
+
+Users who connect Accounts Which covers all 8 indicators

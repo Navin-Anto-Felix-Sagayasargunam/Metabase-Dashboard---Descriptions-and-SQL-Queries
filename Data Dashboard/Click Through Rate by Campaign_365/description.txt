@@ -1,0 +1,7 @@
+Card: Click Through Rate by Campaign
+Card ID: 365
+Dashboard: Data Dashboard
+================================================================================
+
+Average Click through Rate categorized by Campaigns.  
+CTR=(Clicks/Impressions)​×100

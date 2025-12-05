@@ -1,0 +1,6 @@
+Card: Frequency of Use
+Card ID: 367
+Dashboard: Data Dashboard
+================================================================================
+
+Average number of sessions per user in a time period

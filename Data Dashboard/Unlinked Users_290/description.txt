@@ -1,0 +1,6 @@
+Card: Unlinked Users
+Card ID: 290
+Dashboard: Data Dashboard
+================================================================================
+
+Users who  did  not link any accounts
