@@ -1,0 +1,6 @@
+Card: Users who set up goal
+Card ID: 294
+Dashboard: Finance Dashboard
+================================================================================
+
+Count of Users who set up Goal

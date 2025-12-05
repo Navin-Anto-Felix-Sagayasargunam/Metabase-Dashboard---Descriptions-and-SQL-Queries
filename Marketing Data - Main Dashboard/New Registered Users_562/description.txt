@@ -1,0 +1,6 @@
+Card: New Registered Users
+Card ID: 562
+Dashboard: Marketing Data - Main Dashboard
+================================================================================
+
+New Registered Users with MoM % change - Count of Users who are newly signed up in the App

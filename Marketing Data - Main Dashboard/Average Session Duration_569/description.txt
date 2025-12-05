@@ -1,0 +1,6 @@
+Card: Average Session Duration
+Card ID: 569
+Dashboard: Marketing Data - Main Dashboard
+================================================================================
+
+Average Session Duration Utilized by the overall users in a month in the APP

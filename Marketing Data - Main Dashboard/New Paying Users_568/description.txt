@@ -1,0 +1,6 @@
+Card: New Paying Users
+Card ID: 568
+Dashboard: Marketing Data - Main Dashboard
+================================================================================
+
+Users who are paying for Investment or Deposits

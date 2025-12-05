@@ -1,0 +1,6 @@
+Card: FHS Expert
+Card ID: 356
+Dashboard: Financial Health Score 
+================================================================================
+
+Count of FHS Expert users for the most recent completed pay period.

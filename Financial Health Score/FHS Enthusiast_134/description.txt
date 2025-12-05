@@ -1,0 +1,6 @@
+Card: FHS Enthusiast
+Card ID: 134
+Dashboard: Financial Health Score 
+================================================================================
+
+FHS - Enthusiast Count by Month (Date Filter Applied)

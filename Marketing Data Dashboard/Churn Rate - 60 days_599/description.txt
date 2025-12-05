@@ -1,0 +1,7 @@
+Card: Churn Rate - 60 days
+Card ID: 599
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+This query calculates month-wise user churn over a 2-month rolling period.
+Churn (%)=Start Month Users−Active Next 2 Months / Start Month Users ​×100

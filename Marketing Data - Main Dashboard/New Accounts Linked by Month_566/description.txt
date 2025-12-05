@@ -1,0 +1,6 @@
+Card: New Accounts Linked by Month
+Card ID: 566
+Dashboard: Marketing Data - Main Dashboard
+================================================================================
+
+Number of new accounts linked each month

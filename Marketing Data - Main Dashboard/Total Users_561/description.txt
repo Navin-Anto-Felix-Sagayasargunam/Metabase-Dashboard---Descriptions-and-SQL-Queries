@@ -1,0 +1,7 @@
+Card: Total Users
+Card ID: 561
+Dashboard: Marketing Data - Main Dashboard
+================================================================================
+
+Count of users who have registered the app(All time) both for UAE and  SA. 
+Location Filter Applied

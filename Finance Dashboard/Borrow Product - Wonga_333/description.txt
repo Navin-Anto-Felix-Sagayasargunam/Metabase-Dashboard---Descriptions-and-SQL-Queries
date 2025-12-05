@@ -1,0 +1,6 @@
+Card: Borrow Product - Wonga
+Card ID: 333
+Dashboard: Finance Dashboard
+================================================================================
+
+Users who took borrow product from Wonga

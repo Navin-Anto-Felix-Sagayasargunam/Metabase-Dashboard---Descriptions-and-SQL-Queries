@@ -1,0 +1,6 @@
+Card: Wealth Products -EFT
+Card ID: 339
+Dashboard: Finance Dashboard
+================================================================================
+
+Users who invested via EFT payment in wealth product

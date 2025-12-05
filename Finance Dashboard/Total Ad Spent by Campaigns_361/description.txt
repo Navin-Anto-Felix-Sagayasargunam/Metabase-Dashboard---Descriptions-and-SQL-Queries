@@ -1,0 +1,6 @@
+Card: Total Ad Spent by Campaigns
+Card ID: 361
+Dashboard: Finance Dashboard
+================================================================================
+
+Ad Cost Spent categorised by Campaign names.SUM(advertiseradcost)

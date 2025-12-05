@@ -1,0 +1,6 @@
+Card: Average Time in App per User
+Card ID: 591
+Dashboard: Marketing Data - Main Dashboard
+================================================================================
+
+Average time spent by User in the Month

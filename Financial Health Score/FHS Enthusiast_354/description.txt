@@ -1,0 +1,6 @@
+Card: FHS Enthusiast
+Card ID: 354
+Dashboard: Financial Health Score 
+================================================================================
+
+Count of FHS Enthusiast users for the most recent completed pay period.

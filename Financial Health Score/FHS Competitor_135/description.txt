@@ -1,0 +1,6 @@
+Card: FHS Competitor
+Card ID: 135
+Dashboard: Financial Health Score 
+================================================================================
+
+FHS - Competitor Count by Month (Date Filter Applied)

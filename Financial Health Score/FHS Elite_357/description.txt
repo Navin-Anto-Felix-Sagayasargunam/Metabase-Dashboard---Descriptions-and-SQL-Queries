@@ -1,0 +1,6 @@
+Card: FHS Elite
+Card ID: 357
+Dashboard: Financial Health Score 
+================================================================================
+
+Count of FHS Elite  users for the most recent completed pay period.

@@ -1,0 +1,6 @@
+Card: Wealth Products - Card
+Card ID: 342
+Dashboard: Finance Dashboard
+================================================================================
+
+Users who invested via Card payment in wealth product

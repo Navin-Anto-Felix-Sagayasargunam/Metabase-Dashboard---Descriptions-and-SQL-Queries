@@ -1,0 +1,6 @@
+Card: Active Users - Current Months Vs Previous 
+Card ID: 220
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Comparison of Active User Counts Between Current and  Past Months (Date Filter Applied)

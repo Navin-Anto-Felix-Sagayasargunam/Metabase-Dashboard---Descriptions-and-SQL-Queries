@@ -1,0 +1,6 @@
+Card: FHS Competitor
+Card ID: 355
+Dashboard: Financial Health Score 
+================================================================================
+
+Count of FHS Competitor users for the most recent completed pay period.

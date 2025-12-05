@@ -1,0 +1,6 @@
+Card: Borrow Product - Sanlam
+Card ID: 335
+Dashboard: Finance Dashboard
+================================================================================
+
+Users who took borrow product from Sanlam

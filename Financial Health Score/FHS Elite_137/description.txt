@@ -1,0 +1,6 @@
+Card: FHS Elite
+Card ID: 137
+Dashboard: Financial Health Score 
+================================================================================
+
+FHS - Elite Count by Month (Date Filter Applied)
