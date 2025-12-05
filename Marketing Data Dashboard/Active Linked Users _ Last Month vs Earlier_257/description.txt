@@ -1,6 +1,0 @@
-Card: Active Linked Users – Last Month vs Earlier
-Card ID: 257
-Dashboard: Marketing Data Dashboard 
-================================================================================
-
-Comparison of Active Linked User Counts Between Two Most Recent Completed Months (Date Filter Applied)

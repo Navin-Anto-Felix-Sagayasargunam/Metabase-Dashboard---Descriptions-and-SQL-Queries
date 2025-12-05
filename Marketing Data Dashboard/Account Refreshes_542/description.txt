@@ -1,6 +1,0 @@
-Card: Account Refreshes
-Card ID: 542
-Dashboard: Marketing Data Dashboard 
-================================================================================
-
-Total Number Account which are set for Auto Account Update (Date Filter Applied)

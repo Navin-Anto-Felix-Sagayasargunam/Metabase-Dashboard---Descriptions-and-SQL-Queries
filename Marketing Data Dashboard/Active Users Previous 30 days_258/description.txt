@@ -1,6 +1,0 @@
-Card: Active Users Previous 30 days
-Card ID: 258
-Dashboard: Marketing Data Dashboard 
-================================================================================
-
-Users Logins  at least once in a month (Created_date between CURRENT_DATE AND 30 DAYS BEFORE CURRENT_DATE ) 

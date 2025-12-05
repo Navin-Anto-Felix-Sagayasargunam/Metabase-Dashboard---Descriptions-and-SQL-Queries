@@ -1,6 +1,0 @@
-Card: Active Linked Users - Previous 90 days
-Card ID: 229
-Dashboard: Marketing Data Dashboard 
-================================================================================
-
-User who have linked atleast one account and Logins the app atleast once in 3 month((Created_date between CURRENT_DATE AND 90 DAYS BEFORE CURRENT_DATE )

@@ -1,6 +1,0 @@
-Card: Activated Users
-Card ID: 239
-Dashboard: Marketing Data Dashboard 
-================================================================================
-
-The number of registered users who have successfully completed the activation process (e.g., verified their account, linked their first account, or performed their first key action) (Condition used is_deleted = False and first_account_link_date is not NULL)

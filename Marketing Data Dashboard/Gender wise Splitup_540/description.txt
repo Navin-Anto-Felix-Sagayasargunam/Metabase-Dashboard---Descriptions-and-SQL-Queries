@@ -1,6 +1,0 @@
-Card: Gender wise Splitup
-Card ID: 540
-Dashboard: Marketing Data Dashboard 
-================================================================================
-
-Total Users Count. Data has been retrieved after 1st Jan 2020.

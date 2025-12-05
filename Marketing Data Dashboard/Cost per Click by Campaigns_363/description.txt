@@ -1,7 +1,0 @@
-Card: Cost per Click by Campaigns
-Card ID: 363
-Dashboard: Marketing Data Dashboard 
-================================================================================
-
-Average Cost per click categorized by Campaigns.
-CPC=(SUM(advertiseradcost)/SUM(advertiseradclicks))*100
