@@ -1,0 +1,6 @@
+Card: DAU /MAU Ratio
+Card ID: 283
+Dashboard: Product Dashboard 
+================================================================================
+
+Ratio of Daily Active Users  Vs Month Active Users  (Date Filter Applied)

@@ -1,0 +1,6 @@
+Card: Accounts Linked by Account Class
+Card ID: 280
+Dashboard: Product Dashboard 
+================================================================================
+
+Count of Accounts Linked by Account Class

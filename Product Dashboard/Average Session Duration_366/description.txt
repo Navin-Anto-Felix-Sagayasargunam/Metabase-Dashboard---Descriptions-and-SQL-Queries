@@ -1,0 +1,6 @@
+Card: Average Session Duration
+Card ID: 366
+Dashboard: Product Dashboard 
+================================================================================
+
+Average time users spend in a single app session

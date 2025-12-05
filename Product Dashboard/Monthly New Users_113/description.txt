@@ -1,0 +1,6 @@
+Card: Monthly New Users
+Card ID: 113
+Dashboard: Product Dashboard 
+================================================================================
+
+New Users created Monthly   (Date Filter Applied)

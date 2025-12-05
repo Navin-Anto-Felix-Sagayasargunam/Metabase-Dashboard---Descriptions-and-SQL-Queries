@@ -1,0 +1,6 @@
+Card: Monthly Active Users
+Card ID: 232
+Dashboard: Product Dashboard 
+================================================================================
+
+Monthly Active Users  (Date Filter Applied)

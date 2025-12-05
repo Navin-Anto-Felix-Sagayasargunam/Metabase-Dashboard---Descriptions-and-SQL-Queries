@@ -1,0 +1,7 @@
+Card: FHS Average Score
+Card ID: 126
+Dashboard: Product Dashboard 
+================================================================================
+
+Average FHS Score by Level(
+Rookie,Enthusiast,Competitor,Expert,Elite)--(Date Filter Applied)

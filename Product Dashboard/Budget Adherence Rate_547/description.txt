@@ -1,0 +1,7 @@
+Card: Budget Adherence Rate
+Card ID: 547
+Dashboard: Product Dashboard 
+================================================================================
+
+Percentage of Users within Budget
+Adherence Rate = sum `total_amount` / sum `planned_amount` (Date filter Applied)

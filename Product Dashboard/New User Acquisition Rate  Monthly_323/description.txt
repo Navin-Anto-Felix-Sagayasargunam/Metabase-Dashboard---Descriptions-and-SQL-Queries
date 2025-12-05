@@ -1,0 +1,6 @@
+Card: New User Acquisition Rate  Monthly 
+Card ID: 323
+Dashboard: Product Dashboard 
+================================================================================
+
+Rate of New User Acquisition - Monthly  (Date Filter Applied)

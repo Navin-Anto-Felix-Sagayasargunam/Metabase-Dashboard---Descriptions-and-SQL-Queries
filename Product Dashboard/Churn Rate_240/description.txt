@@ -1,0 +1,6 @@
+Card: Churn Rate 
+Card ID: 240
+Dashboard: Product Dashboard 
+================================================================================
+
+Percentage(%) of users who stop using the app for a given time period((Inactive User Count /Total User Count) * 100))

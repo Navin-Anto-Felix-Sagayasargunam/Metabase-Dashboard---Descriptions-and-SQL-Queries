@@ -1,0 +1,6 @@
+Card: Dormant users between 60 and 90 days
+Card ID: 145
+Dashboard: Product Dashboard 
+================================================================================
+
+count of users who have logged in between 60 and 90 days

@@ -1,0 +1,6 @@
+Card: Churn Rate by Month 
+Card ID: 358
+Dashboard: Product Dashboard 
+================================================================================
+
+Monthly Churn Data - Users who has stopped using app (Date Filter Applied)

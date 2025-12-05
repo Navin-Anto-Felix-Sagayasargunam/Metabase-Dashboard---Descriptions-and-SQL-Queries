@@ -1,0 +1,6 @@
+Card: Dormant users 91+ days
+Card ID: 146
+Dashboard: Product Dashboard 
+================================================================================
+
+Count of users who have not logged in for more than 91+ days

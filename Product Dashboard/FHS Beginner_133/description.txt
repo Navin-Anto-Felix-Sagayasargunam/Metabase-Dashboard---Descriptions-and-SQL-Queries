@@ -1,0 +1,6 @@
+Card: FHS Beginner
+Card ID: 133
+Dashboard: Product Dashboard 
+================================================================================
+
+FHS - Rookie Count by Month (Date Filter Applied)

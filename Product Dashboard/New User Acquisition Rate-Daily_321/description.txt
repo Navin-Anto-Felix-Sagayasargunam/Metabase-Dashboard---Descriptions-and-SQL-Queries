@@ -1,0 +1,6 @@
+Card: New User Acquisition Rate-Daily
+Card ID: 321
+Dashboard: Product Dashboard 
+================================================================================
+
+Count of New User  Signups -Daily

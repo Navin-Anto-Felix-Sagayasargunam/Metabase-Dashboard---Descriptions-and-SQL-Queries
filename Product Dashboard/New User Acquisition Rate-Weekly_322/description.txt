@@ -1,0 +1,6 @@
+Card: New User Acquisition Rate-Weekly 
+Card ID: 322
+Dashboard: Product Dashboard 
+================================================================================
+
+Count of New User  Signups -Weekly

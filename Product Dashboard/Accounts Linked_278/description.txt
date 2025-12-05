@@ -1,0 +1,10 @@
+Card: Accounts Linked
+Card ID: 278
+Dashboard: Product Dashboard 
+================================================================================
+
+Total Count of accounts Linked .
+Conditions: is_deleted = 'False'
+deactivated = FALSE
+refresh_status = 0
+account_class != 'Manual'
