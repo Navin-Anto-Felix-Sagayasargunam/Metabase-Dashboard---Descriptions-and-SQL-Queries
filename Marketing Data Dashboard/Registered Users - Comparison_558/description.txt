@@ -1,0 +1,6 @@
+Card: Registered Users - Comparison
+Card ID: 558
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Total count of new users for each month - Compares latest two month counts

@@ -1,0 +1,6 @@
+Card: Weekly Active Users
+Card ID: 227
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Users active at least once in a week window. Logged in the App on current date .Users active at least once in a 7-day window(Date Filter Applied)

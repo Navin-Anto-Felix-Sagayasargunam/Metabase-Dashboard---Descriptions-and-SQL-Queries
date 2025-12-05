@@ -1,0 +1,6 @@
+Card: Monthly Active Users, by Platform
+Card ID: 251
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Count of Active Users - Monthly categorized by Platform (Date Filter Applied)

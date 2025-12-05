@@ -1,0 +1,6 @@
+Card: Active Users - Previous 90 days
+Card ID: 230
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Users active at least once in 3 months. (Created_date between CURRENT_DATE AND 90 DAYS BEFORE CURRENT_DATE )

@@ -1,0 +1,7 @@
+Card: Total Amount spent for Ad
+Card ID: 360
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Total Amount spent on advertising within a given period.(30 days).
+SUM(advertiseradcost)

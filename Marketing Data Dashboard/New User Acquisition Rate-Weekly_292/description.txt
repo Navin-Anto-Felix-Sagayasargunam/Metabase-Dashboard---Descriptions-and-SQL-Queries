@@ -1,0 +1,6 @@
+Card: New User Acquisition Rate-Weekly
+Card ID: 292
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Rate of New User Acquisition Weekly Rate (Date Filter Applied)

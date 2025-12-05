@@ -1,0 +1,7 @@
+Card: Churn Rate - 90 days
+Card ID: 598
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+This query calculates month-wise user churn over a 3-month rolling period.
+Churn (%)=Start Month Users−Active Next 3 Months / Start Month Users ​×100

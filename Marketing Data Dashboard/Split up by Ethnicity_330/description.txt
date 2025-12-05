@@ -1,0 +1,6 @@
+Card: Split up by Ethnicity 
+Card ID: 330
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Count of users splitup by Ethinicity - After 1st Jan 2020

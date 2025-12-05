@@ -1,0 +1,6 @@
+Card: Inactive Users
+Card ID: 237
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+The number of users who have not engaged with the platform for a defined period (e.g., 100 days)(last_activity_date <= CURRENT_DATE - '100 days'

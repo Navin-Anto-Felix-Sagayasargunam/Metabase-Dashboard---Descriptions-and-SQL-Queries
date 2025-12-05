@@ -1,0 +1,6 @@
+Card: Monthly Active Linked Users, by Platform
+Card ID: 250
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Count of Active Linked Users - Monthly categorized by Platform (Date Filter Applied)

@@ -1,0 +1,6 @@
+Card: Monthly New Signups ,by Platform
+Card ID: 252
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Count of New User signups - Monthly categorized by Platform. This also includes single user accessing app in different platforms in the same month(Date Filter Applied)

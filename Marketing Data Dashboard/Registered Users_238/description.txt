@@ -1,0 +1,6 @@
+Card: Registered Users
+Card ID: 238
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+The total number of users who have successfully created an account in the platform.

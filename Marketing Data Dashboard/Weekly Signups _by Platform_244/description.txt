@@ -1,0 +1,6 @@
+Card: Weekly Signups ,by Platform 
+Card ID: 244
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Count of New User signups - Weekly categorized by Platform (Date Filter Applied)

@@ -1,0 +1,6 @@
+Card: Active Linked Users - Current Month vs Previous 
+Card ID: 245
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Comparison of Active Linked User Counts Between Current and  Past Months. The number of users who have logged in past 30 days and have an active linked account (Date Filter Applied)

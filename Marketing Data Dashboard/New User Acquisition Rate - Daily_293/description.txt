@@ -1,0 +1,6 @@
+Card: New User Acquisition Rate - Daily
+Card ID: 293
+Dashboard: Marketing Data Dashboard 
+================================================================================
+
+Rate of New User Acquisition -Daily Rate (Date Filter Applied)
