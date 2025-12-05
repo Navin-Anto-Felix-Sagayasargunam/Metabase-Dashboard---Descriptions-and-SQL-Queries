@@ -1,0 +1,6 @@
+Card: Wealth Products - InstantEFT
+Card ID: 340
+Dashboard: Operations Dashboard
+================================================================================
+
+ Users who invested via InstantEFT payment in wealth product

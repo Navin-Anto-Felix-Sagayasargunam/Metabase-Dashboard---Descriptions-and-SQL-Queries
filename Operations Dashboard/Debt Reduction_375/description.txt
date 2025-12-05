@@ -1,0 +1,6 @@
+Card: Debt Reduction
+Card ID: 375
+Dashboard: Operations Dashboard
+================================================================================
+
+Decrease in total outstanding debts (Date Filter Apllied)

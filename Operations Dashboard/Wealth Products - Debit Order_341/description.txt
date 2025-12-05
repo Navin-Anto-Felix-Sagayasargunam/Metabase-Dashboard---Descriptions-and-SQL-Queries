@@ -1,0 +1,6 @@
+Card: Wealth Products - Debit Order
+Card ID: 341
+Dashboard: Operations Dashboard
+================================================================================
+
+Users who invested via Debit Order payment in wealth product

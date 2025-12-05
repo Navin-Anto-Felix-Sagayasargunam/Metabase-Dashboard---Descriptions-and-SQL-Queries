@@ -1,0 +1,6 @@
+Card: Dormant Users 30 Days By Month
+Card ID: 543
+Dashboard: Operations Dashboard
+================================================================================
+
+Users account which are Dormant Month wise   (Date Filter Applied)

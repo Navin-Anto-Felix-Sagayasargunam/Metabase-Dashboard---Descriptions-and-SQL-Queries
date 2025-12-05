@@ -1,0 +1,6 @@
+Card: Goal Progression ,by Journey Step
+Card ID: 295
+Dashboard: Operations Dashboard
+================================================================================
+
+Users Segmented based on Goal progression by journey step

@@ -1,0 +1,6 @@
+Card: New User - Daily
+Card ID: 264
+Dashboard: Operations Dashboard
+================================================================================
+
+New users Signups -Daily -- (Date Filter Applied)

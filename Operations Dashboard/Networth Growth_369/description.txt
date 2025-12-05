@@ -1,0 +1,6 @@
+Card: Networth Growth
+Card ID: 369
+Dashboard: Operations Dashboard
+================================================================================
+
+Growth in net worth (Total Assets - Total Liabilities) .(Date Filter Applied)

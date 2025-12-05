@@ -1,0 +1,6 @@
+Card: Weekly New User
+Card ID: 265
+Dashboard: Operations Dashboard
+================================================================================
+
+New Users created  Weekly  (Date Filter Applied)

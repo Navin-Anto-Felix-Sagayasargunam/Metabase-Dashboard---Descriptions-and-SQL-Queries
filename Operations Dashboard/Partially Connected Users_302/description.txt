@@ -1,0 +1,6 @@
+Card: Partially Connected Users
+Card ID: 302
+Dashboard: Operations Dashboard
+================================================================================
+
+Users who connect Accounts Which covers all 8 indicators - partially 

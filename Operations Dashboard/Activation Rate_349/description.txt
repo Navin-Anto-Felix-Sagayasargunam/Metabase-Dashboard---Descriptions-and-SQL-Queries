@@ -1,0 +1,6 @@
+Card: Activation Rate
+Card ID: 349
+Dashboard: Operations Dashboard
+================================================================================
+
+Rate of signups who reach activation milestone

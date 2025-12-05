@@ -1,0 +1,6 @@
+Card: Drop Off Rate
+Card ID: 348
+Dashboard: Operations Dashboard
+================================================================================
+
+No description available for this card.

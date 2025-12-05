@@ -1,0 +1,6 @@
+Card: Dormant users 30 days
+Card ID: 144
+Dashboard: Operations Dashboard
+================================================================================
+
+Count of users who have not logged in 30 days whose last_activity_date is equal to  30 days
