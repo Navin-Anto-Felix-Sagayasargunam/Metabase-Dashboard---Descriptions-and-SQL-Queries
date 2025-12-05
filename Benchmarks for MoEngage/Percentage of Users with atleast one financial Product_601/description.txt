@@ -1,0 +1,7 @@
+Card: Percentage of Users with atleast one financial Product
+Card ID: 601
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+Percentage of Users with at least one financial Product (Savings, Loan, Investment, wealth) 
+Percentage = (users_with_financial_product / total users who have linked an account ) × 100

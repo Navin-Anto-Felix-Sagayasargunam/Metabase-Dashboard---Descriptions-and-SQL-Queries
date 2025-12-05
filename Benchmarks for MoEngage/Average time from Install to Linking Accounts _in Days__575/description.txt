@@ -1,0 +1,6 @@
+Card: Average time from Install to Linking Accounts (in Days)
+Card ID: 575
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+No description available for this card.

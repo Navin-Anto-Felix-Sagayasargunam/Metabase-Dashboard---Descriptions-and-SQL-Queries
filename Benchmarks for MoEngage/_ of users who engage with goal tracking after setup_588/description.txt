@@ -1,0 +1,7 @@
+Card: % of users who engage with goal tracking after setup
+Card ID: 588
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+% of users who engage with goal tracking after setup 
+Total number of users who are in the proceding steps   /Total number of users who set up Goal till date 

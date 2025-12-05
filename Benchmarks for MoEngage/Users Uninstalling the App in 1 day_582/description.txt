@@ -1,0 +1,6 @@
+Card: Users Uninstalling the App in 1 day
+Card ID: 582
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+Number / % of users uninstalling within: 1 day

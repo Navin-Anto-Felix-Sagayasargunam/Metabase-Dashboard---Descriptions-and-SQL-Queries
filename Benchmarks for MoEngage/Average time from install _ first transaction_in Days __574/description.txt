@@ -1,0 +1,6 @@
+Card: Average time from install → first transaction(in Days )
+Card ID: 574
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+No description available for this card.

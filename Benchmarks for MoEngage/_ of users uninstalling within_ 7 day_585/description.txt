@@ -1,0 +1,6 @@
+Card: % of users uninstalling within: 7 day
+Card ID: 585
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+Percentage of users uninstalling within: 7 days

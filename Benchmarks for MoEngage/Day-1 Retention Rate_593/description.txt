@@ -1,0 +1,7 @@
+Card: Day-1 Retention Rate
+Card ID: 593
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+The percentage of users who open or use the app again one day after installing or signing up.
+Day-1 Retention Rate = Users active on Day 1 / Users who installed on Day 0 x 100

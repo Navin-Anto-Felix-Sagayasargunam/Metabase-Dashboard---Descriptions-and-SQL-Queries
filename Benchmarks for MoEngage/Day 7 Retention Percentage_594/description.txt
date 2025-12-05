@@ -1,0 +1,7 @@
+Card: Day 7 Retention Percentage
+Card ID: 594
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+The percentage of users who return to the app seven days after installation.
+Day-7 Retention Rate = Users active on Day 7 / Users who installed on Day 0 x 100

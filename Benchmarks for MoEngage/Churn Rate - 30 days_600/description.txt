@@ -1,0 +1,7 @@
+Card: Churn Rate - 30 days
+Card ID: 600
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+This query calculates month-wise user churn over a 1 - month rolling period.
+Churn (%)=Start Month Users−Active Next 1 Months / Start Month Users ​×100

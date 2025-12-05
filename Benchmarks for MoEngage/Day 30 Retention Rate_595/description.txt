@@ -1,0 +1,7 @@
+Card: Day 30 Retention Rate
+Card ID: 595
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+The percentage of users who use the app 30 days after installation
+Day-30 Retention Rate = Users active on Day 30 / Users who installed on Day 0 x 100

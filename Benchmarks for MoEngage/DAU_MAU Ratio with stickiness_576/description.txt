@@ -1,0 +1,8 @@
+Card: DAU,MAU Ratio with stickiness
+Card ID: 576
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+"DAU/MAU Ratio (%)"="Average Daily Active Users" /"Monthly Active Users" ×100
+
+ 

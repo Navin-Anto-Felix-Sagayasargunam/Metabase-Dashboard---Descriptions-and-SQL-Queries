@@ -1,0 +1,6 @@
+Card: Average Sessions per User - Weekly
+Card ID: 596
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+Average Sessions per User=SUM(sessions)​/SUM(totalusers)

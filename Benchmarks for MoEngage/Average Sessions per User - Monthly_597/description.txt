@@ -1,0 +1,6 @@
+Card: Average Sessions per User - Monthly
+Card ID: 597
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+Average Sessions per User=SUM(sessions)​/SUM(totalusers)

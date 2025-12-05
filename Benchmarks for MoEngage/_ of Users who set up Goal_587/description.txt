@@ -1,0 +1,6 @@
+Card: % of Users who set up Goal
+Card ID: 587
+Dashboard: Benchmarks for MoEngage
+================================================================================
+
+Percentage of users who has set up Goal and not deleted their account
