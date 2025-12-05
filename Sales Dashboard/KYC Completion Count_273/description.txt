@@ -1,0 +1,6 @@
+Card: KYC Completion Count
+Card ID: 273
+Dashboard: Sales Dashboard
+================================================================================
+
+Count of users who completed KYC

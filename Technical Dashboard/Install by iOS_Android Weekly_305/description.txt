@@ -1,0 +1,6 @@
+Card: Install by iOS,Android Weekly
+Card ID: 305
+Dashboard: Technical Dashboard
+================================================================================
+
+User installs the app via Android device and iOS device  (Date Filter Applied)

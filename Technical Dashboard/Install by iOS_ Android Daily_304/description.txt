@@ -1,0 +1,6 @@
+Card: Install by iOS, Android Daily
+Card ID: 304
+Dashboard: Technical Dashboard
+================================================================================
+
+Daily Count of App registration by Device type  (Date Filter Applied)

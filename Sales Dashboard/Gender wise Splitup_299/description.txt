@@ -1,0 +1,6 @@
+Card: Gender wise Splitup
+Card ID: 299
+Dashboard: Sales Dashboard
+================================================================================
+
+Total Users Count. Data has been retrieved after 1st Jan 2020.

@@ -1,0 +1,6 @@
+Card: App Installation Splitup by OS
+Card ID: 303
+Dashboard: Technical Dashboard
+================================================================================
+
+User installation count by OS  

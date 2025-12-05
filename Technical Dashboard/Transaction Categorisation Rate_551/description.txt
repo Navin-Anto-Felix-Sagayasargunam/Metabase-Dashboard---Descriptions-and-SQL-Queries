@@ -1,0 +1,12 @@
+Card: Transaction Categorisation Rate
+Card ID: 551
+Dashboard: Technical Dashboard
+================================================================================
+
+The percentage of customer transactions that have been successfully categorized each month (pay period). It reflects the completeness and quality of transaction data classification in the system.
+For each pay period, the query computes:
+Categorized Transactions: Number of transactions where category_id is assigned (not null).
+Uncategorized Transactions: Number of transactions without a category assignment.
+Total Transactions: All transactions during that pay period.
+Categorization Rate (%):
+(Categorized Transactions / Total Transactions)×100

@@ -1,0 +1,6 @@
+Card: Rate of Goal Completion
+Card ID: 297
+Dashboard: Sales Dashboard
+================================================================================
+
+Rate of users who completed Goal Vs total users who set up Goal

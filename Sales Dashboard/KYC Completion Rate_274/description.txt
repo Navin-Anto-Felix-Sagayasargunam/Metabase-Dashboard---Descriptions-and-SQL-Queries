@@ -1,0 +1,6 @@
+Card: KYC Completion Rate
+Card ID: 274
+Dashboard: Sales Dashboard
+================================================================================
+
+Rate of  Users who completed KYC vs Total Count of Users 

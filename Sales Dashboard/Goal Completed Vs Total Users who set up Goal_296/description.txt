@@ -1,0 +1,6 @@
+Card: Goal Completed Vs Total Users who set up Goal
+Card ID: 296
+Dashboard: Sales Dashboard
+================================================================================
+
+Count of users who Completed Goal vs Total users who set up goal
